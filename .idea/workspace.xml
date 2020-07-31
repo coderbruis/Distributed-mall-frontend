@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="673c5559-b4ef-42e6-a6b2-3ef4e0b4d45e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cONemNdwFQenLZELMIabHJNqYu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="673c5559-b4ef-42e6-a6b2-3ef4e0b4d45e" name="Default Changelist" comment="" />
+      <created>1590395778590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590395778590</updated>
+      <workItem from="1590395785958" duration="1411000" />
+      <workItem from="1592576013801" duration="1007000" />
+      <workItem from="1592666351862" duration="3059000" />
+      <workItem from="1592961637274" duration="796000" />
+      <workItem from="1596097345087" duration="1846000" />
+      <workItem from="1596175047299" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="102" key="#serve" timestamp="1590397354149">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="347" y="102" key="#serve/0.23.1280.730/-1920.23.1920.1057@0.23.1280.730" timestamp="1590397354149" />
+    <state x="306" y="143" width="667" height="486" key="find.popup" timestamp="1596175513755">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="306" y="143" width="667" height="486" key="find.popup/0.23.1280.727/-1920.-159.1920.1057@0.23.1280.727" timestamp="1596175513755" />
+  </component>
+</project>
